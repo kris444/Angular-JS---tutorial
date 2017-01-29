@@ -1,0 +1,15 @@
+{
+  "name": "angularsample",
+  "version": "1.0.0",
+  "description": "angular sample application for training",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PVM",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.5.9",
+    "angular-route": "^1.5.9"
+  }
+}

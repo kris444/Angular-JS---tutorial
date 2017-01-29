@@ -1,0 +1,94 @@
+[
+    {
+        "id":1,
+        "title": "Scientists unveil new form of matter: Time crystals",
+        "desc": "Traumatic Axonal Injury is a form of traumatic brain injury that can have detrimental effects on the integrity of the brain's white matter and lead to cognitive impairments",
+        "source": "https://www.eurekalert.org/pub_releases/2014-09/cfb-lse090314.php",
+        "comments": "52 number of comments",
+        "category": 0,
+        "rating":3,
+        "tags": [
+            "science",
+            "diamond"
+        ]
+    },
+    {
+        "id":2,
+        "title": "Kids can't use computers (2013) ",
+        "desc": " Why not just go watch another five second video of a kitten with its head in a toilet roll, or a 140 character description of a meal your friend just stuffed in their mouth.",
+        "source": "http://www.coding2learn.org/blog/2013/07/29/kids-cant-use-computers/",
+        "comments": "8 number of comments",
+        "category": 2,
+        "rating":3,
+        "tags": [
+            "coding",
+            "kids"
+        ]
+    },
+    {
+        "id":3,
+        "title": "Forth: The Hacker’s Language is famous now",
+        "desc": "Let’s start right off with a controversial claim: Forth is the hacker’s programming language. Coding in Forth is a little bit like writing assembly language, interactively, for a strange CPU architecture that doesn’t exist. Forth is a virtual machine, an interpreted command-line, and a compiler all in one. And all of this is simple enough that it’s easily capable of running in a few kilobytes of memory. When your Forth code is right, it reads just like a natural-language sentence but getting there involves a bit of puzzle solving",
+        "source": "http://hackaday.com/2017/01/27/forth-the-hackers-language/",
+        "comments": "8 number of comments",
+        "category": 1,
+        "rating":1,
+        "tags": [
+            "hack",
+            "programming"
+        ]
+    },
+    {
+        "id":4,
+        "title": "The $99B Idea: How Uber and Airbnb Won ",
+        "desc": "In January 2009 the three founders of a little-known website called Airbedandbreakfast.com decided at the last minute to attend the inauguration of Barack Obama. Brian Chesky, Joe Gebbia, and Nathan Blecharczyk were all in their mid-20s and had no tickets to the festivities, or winter clothes, or even a firm grasp of the week’s schedule. But they saw an opportunity. Their online home-sharing company ",
+        "source": "https://www.bloomberg.com/features/2017-uber-airbnb-99-billion-idea/",
+        "comments": "198 number of comments",
+        "category": 2,
+        "rating":3,
+        "tags": [
+            "business",
+            "uber",
+            "Airbnb"
+        ]
+    },
+    {
+        "id":5,
+        "title": "RxDB – Local JavaScript-Database",
+        "desc": "Traumatic Axonal Injury is a form of traumatic brain injury that can have detrimental effects on the integrity of the brain's white matter and lead to cognitive impairments",
+        "source": "https://news.ycombinator.com/from?site=coding2learn.org",
+        "comments": "8 number of comments",
+        "category": 0,
+        "rating":3,
+        "tags": [
+            "coding",
+            "js"
+        ]
+    },
+    {
+        "id":6,
+        "title": "Site Reliability Engineering recovery",
+        "desc": "Traumatic Axonal Injury is a form of traumatic brain injury that can have detrimental effects on the integrity of the brain's white matter and lead to cognitive impairments",
+        "source": "https://news.ycombinator.com/from?site=coding2learn.org",
+        "comments": "8 number of comments",
+        "category": 2,
+        "rating":4,
+        "tags": [
+            "coding",
+            "kids"
+        ]
+    },
+    {
+        "id":7,
+        "title": "Twitter discloses national security letters",
+        "desc": "Today, we’re able to speak openly about two national security requests for the first time, specifically two national security letters (NSLs). These NSLs were accompanied by gag orders when they were served (one in 2015, one in 2016), preventing us from notifying the impacted account holders or publicly disclosing their existence. The FBI recently informed us that the gag orders have been lifted and that we may notify the account holders.",
+        "source": "https://news.ycombinator.com/from?site=coding2learn.org",
+        "comments": "8 number of comments",
+        "category": 0,
+        "rating":5,
+        "tags": [
+            "technology",
+            "twitter"
+        ]
+    }
+]

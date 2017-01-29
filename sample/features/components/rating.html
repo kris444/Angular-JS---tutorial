@@ -1,0 +1,9 @@
+<div class="rating-row">
+    <span>
+        <span ng-click="$ctrl.onRatingup()" class="glyphicon glyphicon-thumbs-up"></span>
+       <span ng-click="$ctrl.onRatingdown()" class="glyphicon glyphicon-thumbs-down"></span>
+    </span>
+    <span ng-repeat=" e in $ctrl.ratings track by $index" class="rating-star">
+           <i class="glyphicon glyphicon-star"> </i>
+    </span>
+</div>

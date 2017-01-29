@@ -1,0 +1,18 @@
+<div class="col-md-4" ng-repeat="newsItem in $ctrl.news">
+    <div class="card">
+        <div class="card-content">
+            <div ng-class="{0:'card-header-blue', 1:'card-header-red', 2:'card-header-orange', 3:[card-header-pink]}[newsItem.category]">
+                <h4 class="card-heading">{{newsItem.title}}</h4>
+            </div>
+            <div class="card-body">
+                <p class="card-p">
+                    {{newsItem.desc | limitTo:190 }}...<a href="{{newsItem.source}}">more</a>
+                </p>
+                <div class="row">
+                    <rating-display rating="newsItem.rating" on-ratingup="$ctrl.upRating(newsItem.id)" on-ratingdown="$ctrl.downRating(newsItem.id)"></rating-display>
+                </div>
+            </div>
+            <tags-list tags="newsItem.tags"></tags-list>
+        </div>
+    </div>
+</div>
